@@ -1,0 +1,41 @@
+order_id,date,product,category,quantity,unit_price,region,payment_method,total_sales,month
+1001,2026-01-04,Laptop,Electronics,1.0,55000.0,South,UPI,55000.0,1
+1002,2026-01-06,Mouse,Electronics,3.0,650.0,North,Card,1950.0,1
+1003,2026-01-09,Notebook,Stationery,10.0,80.0,West,Cash,800.0,1
+1004,2026-01-12,Headphones,Electronics,2.0,1800.0,East,UPI,3600.0,1
+1005,2026-01-18,Office Chair,Furniture,1.0,7200.0,South,Card,7200.0,1
+1006,2026-01-22,Pen Set,Stationery,5.0,250.0,North,Cash,1250.0,1
+1007,2026-02-02,Keyboard,Electronics,2.0,1500.0,West,UPI,3000.0,2
+1008,2026-02-05,Desk Lamp,Furniture,3.0,1200.0,East,Card,3600.0,2
+1009,2026-02-11,Water Bottle,Accessories,4.0,450.0,South,UPI,1800.0,2
+1010,2026-02-16,Backpack,Accessories,2.0,2200.0,North,Cash,4400.0,2
+1011,2026-02-20,Laptop,Electronics,1.0,55000.0,West,Card,55000.0,2
+1012,2026-02-24,Notebook,Stationery,8.0,80.0,East,UPI,640.0,2
+1013,2026-03-03,Mouse,Electronics,5.0,650.0,South,UPI,3250.0,3
+1014,2026-03-07,Office Chair,Furniture,2.0,7200.0,North,Card,14400.0,3
+1015,2026-03-12,Headphones,Electronics,3.0,1800.0,West,Cash,5400.0,3
+1016,2026-03-15,Pen Set,Stationery,6.0,250.0,East,UPI,1500.0,3
+1017,2026-03-21,Desk Lamp,Furniture,2.0,1200.0,South,Card,2400.0,3
+1018,2026-03-26,Backpack,Accessories,3.0,2200.0,North,UPI,6600.0,3
+1019,2026-04-02,Keyboard,Electronics,4.0,1500.0,West,Card,6000.0,4
+1020,2026-04-06,Water Bottle,Accessories,6.0,450.0,East,Cash,2700.0,4
+1021,2026-04-10,Laptop,Electronics,1.0,55000.0,South,UPI,55000.0,4
+1022,2026-04-14,Notebook,Stationery,12.0,80.0,North,Card,960.0,4
+1023,2026-04-19,Mouse,Electronics,4.0,650.0,West,UPI,2600.0,4
+1024,2026-04-25,Office Chair,Furniture,1.0,7200.0,East,Cash,7200.0,4
+1025,2026-05-03,Headphones,Electronics,2.0,1800.0,South,Card,3600.0,5
+1026,2026-05-08,Pen Set,Stationery,7.0,250.0,North,UPI,1750.0,5
+1027,2026-05-12,Desk Lamp,Furniture,2.0,1200.0,West,Card,2400.0,5
+1028,2026-05-17,Backpack,Accessories,2.0,2200.0,East,UPI,4400.0,5
+1029,2026-05-22,Keyboard,Electronics,3.0,1500.0,South,Cash,4500.0,5
+1030,2026-05-28,Water Bottle,Accessories,5.0,450.0,North,UPI,2250.0,5
+1031,2026-06-04,Laptop,Electronics,1.0,55000.0,West,Card,55000.0,6
+1032,2026-06-09,Notebook,Stationery,9.0,80.0,East,UPI,720.0,6
+1033,2026-06-13,Mouse,Electronics,3.682926829268293,650.0,South,Cash,2393.9024390243903,6
+1034,2026-06-18,Office Chair,Furniture,2.0,7200.0,North,Card,14400.0,6
+1035,2026-06-22,Headphones,Electronics,3.0,6872.4390243902435,West,UPI,20617.31707317073,6
+1036,2026-06-27,Pen Set,Stationery,5.0,250.0,North,Cash,1250.0,6
+1037,2026-07-03,Desk Lamp,Furniture,3.0,1200.0,South,UPI,3600.0,7
+1038,2026-07-09,Backpack,Accessories,2.0,2200.0,North,Card,4400.0,7
+1039,2026-07-14,Keyboard,Electronics,2.0,1500.0,West,UPI,3000.0,7
+1040,2026-07-19,Water Bottle,Accessories,4.0,450.0,East,Cash,1800.0,7
